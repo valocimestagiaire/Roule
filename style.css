@@ -1,0 +1,26 @@
+.btn{
+	width: 200px !important;
+	height : 40px !important;
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 13px;
+	color: black;
+}
+
+.ovale{
+	border-radius: 50%;
+	color:white;
+}
+
+.page-footer{
+	background-color: grey;
+	padding: 5px;
+}
+
+.navbar{
+	background-color: grey;
+}
+
+.div-btn{
+	direction: rtl;
+}
