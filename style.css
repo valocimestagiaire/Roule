@@ -1,6 +1,6 @@
 .btn{
 	width: 200px !important;
-	height : 40px !important;
+	height : 60px !important;
 	display: table-cell;
 	vertical-align: middle;
 	font-size: 13px;
@@ -23,4 +23,21 @@
 
 .div-btn{
 	direction: rtl;
+}
+
+nav{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.navbar{
+	padding-bottom: 0px !important;
+}
+
+.flex-column{
+	justify-content: start !important;
+}
+
+.row{
+	margin-bottom: 10px !important;
 }

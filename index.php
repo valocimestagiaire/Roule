@@ -12,27 +12,49 @@
 	</head>
 	<body>
 	
-	<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+	<nav class="navbar navbar-light bg-light sticky-top">
 		<div class="navbar w-100 flex-md-column">
-			<div class="ml-auto">
-				<a class="btn btn-primary" style="background-color: #E9D001;" href="#"><b>GAINS SALARIÉS</b><br>(Bien être / souplesse / ...)</a>
-				<a class="btn btn-primary" style="background-color: #0ACE00;" href="#"><b>ENVIRONNEMENT</b><br>(RSE / impacts / ...)</a>
-				<a class="btn btn-primary" style="background-color: #8401D9;" href="#"><b>ADMINISTRATIF</b><br>(Process / contrats / ...)</a>
-				<a class="btn btn-primary" style="background-color: pink;" href="#"><b>RESSOURCES HUMAINES</b></a>
+			<div class="row ml-auto">
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #E9D001;" href="#"><b>GAINS SALARIÉS</b><br>(Bien être / souplesse / ...)</a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #0ACE00;" href="#"><b>ENVIRONNEMENT</b><br>(RSE / impacts / ...)</a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #8401D9;" href="#"><b>ADMINISTRATIF</b><br>(Process / contrats / ...)</a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: pink;" href="#"><b>RESSOURCES HUMAINES</b><br>	</a>
+				</div>
 			</div>
-			<br>
-			<div class="ml-auto">
-				<a class="btn btn-primary" style="background-color: #0188E9;" href="#"><b>GAINS ENTREPRISE</b><br>(Financier / image / ...)</a>
-				<a class="btn btn-primary" style="background-color: #FF8500;" href="#"><b>CIVISME</b></a>
-				<a class="btn btn-primary" style="background-color: #954E00;" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
-				<a class="btn btn-primary" style="background-color: #DC0000;" href="#"><b>SÉCURITÉ</b></a>
+			<div class="row ml-auto">
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #0188E9;" href="#"><b>GAINS ENTREPRISE</b><br>(Financier / image / ...)</a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #FF8500;" href="#"><b>CIVISME</b><br> </a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #954E00;" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
+				</div>
+				<div class="col">
+					<a class="btn btn-primary" style="background-color: #DC0000;" href="#"><b>SÉCURITÉ</b><br> </a>
+				</div>
 			</div>
-			<br>
-			<div class="ml-auto">
-				<a class="btn btn-dark ovale" href="#"><b>OFFRES</b></a>
-				<a class="btn btn-dark ovale" href="#"><b>TROTTINETTES</b></a>
-				<a class="btn btn-dark ovale" href="#"><b>MATÉRIEL</b></a>
-				<a class="btn btn-dark ovale" href="#"><b>ASSURANCE</b></a>
+			<div class="row ml-auto">
+				<div class="col">
+					<a class="btn btn-dark ovale" href="#"><b>OFFRES</b></a>
+				</div>
+				<div class="col">
+					<a class="btn btn-dark ovale" href="#"><b>TROTTINETTES</b></a>
+				</div>
+				<div class="col">
+					<a class="btn btn-dark ovale" href="#"><b>MATÉRIEL</b></a>
+				</div>
+				<div class="col">
+					<a class="btn btn-dark ovale" href="#"><b>ASSURANCE</b></a>
+				</div>
 			</div>
 		</div>
 	</nav>
