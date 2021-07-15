@@ -11,7 +11,7 @@
 }
 
 .ovale{
-	border-radius: 50%;
+	border-radius: 40px;
 	color:white;
 }
 
@@ -29,6 +29,7 @@
 .content { 
   width: 100%; 
   display: flex;
+  padding-bottom: 10px;
 }
 .content__left { 
   max-width: 480px; 
