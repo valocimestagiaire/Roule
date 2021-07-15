@@ -1,6 +1,6 @@
 .btn{
 	width: 476px !important;
-	min-width: 10px !important;
+	min-width: 5px !important;
 	height : 55px !important;
 	display: table-cell;
 	vertical-align: middle;
