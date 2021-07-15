@@ -47,7 +47,7 @@
 				</div>
 			</div>
 			<div class="content__middle">
-				<div class="text-center">				
+				<div class="text-center">		
 					<a class="btn btn-primary marron" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
 				</div>
 			</div>
@@ -100,7 +100,7 @@
 	<h1>O</h1><br>
 	<h1>P</h1><br>
 	
-	
+	<div class="clear" style="clear: both; height: 40px;"></div>
 	<footer class="page-footer fixed-bottom content">
 		<div class="content__left">
 			<a class="btn btn-dark ovale invisible" href="#"><b>SOMMAIRE</b></a>
