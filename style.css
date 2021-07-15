@@ -1,11 +1,13 @@
 .btn{
-	width: 200px !important;
-	height : 60px !important;
+	width: 477px !important;
+	min-width: 10px !important;
+	height : 55px !important;
 	display: table-cell;
 	vertical-align: middle;
 	font-size: 13px;
 	color: black;
 	border-color: black;
+
 }
 
 .ovale{
@@ -13,32 +15,39 @@
 	color:white;
 }
 
-.page-footer{
-	background-color: grey;
-	padding: 5px;
-}
 
-.navbar{
-	background-color: grey;
+.page-footer{
+	background-color: #CBCBCB;
+	padding: 5px;
 }
 
 .div-btn{
 	direction: rtl;
+	min-width: 10px;
 }
 
-nav{
-	padding-top: 0px !important;
-	padding-bottom: 0px !important;
+.content { 
+  width: 100%; 
+  display: flex;
+}
+.content__left { 
+  max-width: 480px; 
+  min-width: 10px;  
+  float: left;
 }
 
-.navbar{
-	padding-bottom: 0px !important;
+.content-middle{
+	min-width: 10px;
+	overflow: auto;
+
 }
 
-.flex-column{
-	justify-content: start !important;
+.content__right { 
+  max-width: 480px; 
+  min-width: 10px; 
+  float: right;
 }
-
-.row{
-	margin-bottom: 10px !important;
+.sticky-top{
+	background-color: #CBCBCB;
+	
 }
