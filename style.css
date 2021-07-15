@@ -1,5 +1,5 @@
 .btn{
-	width: 477px !important;
+	width: 476px !important;
 	min-width: 10px !important;
 	height : 55px !important;
 	display: table-cell;
@@ -10,9 +10,15 @@
 
 }
 
+
 .ovale{
 	border-radius: 40px;
 	color:white;
+}
+
+.ovale:hover{
+	color: black;
+	background-color: white;
 }
 
 
@@ -51,4 +57,100 @@
 .sticky-top{
 	background-color: #CBCBCB;
 	
+}
+
+.jaune{
+	background-color: #E9D001;
+}
+
+.jaune:hover{
+	background-color: white;
+	color: #E9D001;
+	box-shadow: inset 0px 0px 0px 3px #E9D001;
+	border: 0px solid transparent;
+
+}
+
+.vert{
+	background-color: #0ACE00;
+}
+
+.vert:hover{
+	background-color: white;
+	color: #0ACE00;
+	box-shadow: inset 0px 0px 0px 3px #0ACE00;
+	border: 0px solid transparent;
+
+}
+
+.violet{
+	background-color: #B33EFF;
+}
+
+.violet:hover{
+	background-color: white;
+	color: #B33EFF;
+	box-shadow: inset 0px 0px 0px 3px #B33EFF;
+	border: 0px solid transparent;
+
+}
+
+.rose{
+	background-color: #FD66BB;
+}
+
+.rose:hover{
+	background-color: white;
+	color: #FD66BB;
+	box-shadow: inset 0px 0px 0px 3px #FD66BB;
+	border: 0px solid transparent;
+
+}
+
+.bleu{
+	background-color: #78BAEA;
+}
+
+.bleu:hover{
+	background-color: white;
+	color: #78BAEA;
+	box-shadow: inset 0px 0px 0px 3px #78BAEA;
+	border: 0px solid transparent;
+
+}
+
+.orange{
+	background-color: #FF8500;
+}
+
+.orange:hover{
+	background-color: white;
+	color: #FF8500;
+	box-shadow: inset 0px 0px 0px 3px #FF8500;
+	border: 0px solid transparent;
+
+}
+
+.marron{
+	background-color: #AF722F;
+}
+
+.marron:hover{
+	background-color: white;
+	color: #AF722F;
+	box-shadow: inset 0px 0px 0px 3px #AF722F;
+	border: 0px solid transparent;
+
+}
+
+.rouge{
+	background-color: #F31919;
+}
+
+.rouge:hover{
+	background-color: white;
+	color: #F31919;
+	box-shadow: inset 0px 0px 0px 3px #F31919;
+	border: 0px solid transparent;
+
 }
