@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>VALOCIME / Accueil</title>
+		<title>VALOCIME/ Application Badges - Accueil</title>
 		<meta charset="UTF-8">
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -11,54 +11,78 @@
 		<link href="style.css"/ rel="stylesheet">
 	</head>
 	<body>
-	
-	<nav class="navbar navbar-light bg-light sticky-top">
-		<div class="navbar w-100 flex-md-column">
-			<div class="row ml-auto">
-				<div class="col">
+
+	<div class="sticky-top">
+		<div class="content">
+			<div class="content__left">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #E9D001;" href="#"><b>GAINS SALARIÉS</b><br>(Bien être / souplesse / ...)</a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #0ACE00;" href="#"><b>ENVIRONNEMENT</b><br>(RSE / impacts / ...)</a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #8401D9;" href="#"><b>ADMINISTRATIF</b><br>(Process / contrats / ...)</a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__right">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: pink;" href="#"><b>RESSOURCES HUMAINES</b><br>	</a>
 				</div>
 			</div>
-			<div class="row ml-auto">
-				<div class="col">
+		</div>
+		<div class="content">
+			<div class="content__left">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #0188E9;" href="#"><b>GAINS ENTREPRISE</b><br>(Financier / image / ...)</a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #FF8500;" href="#"><b>CIVISME</b><br> </a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">				
 					<a class="btn btn-primary" style="background-color: #954E00;" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__right">
+				<div class="text-center">
 					<a class="btn btn-primary" style="background-color: #DC0000;" href="#"><b>SÉCURITÉ</b><br> </a>
 				</div>
 			</div>
-			<div class="row ml-auto">
-				<div class="col">
+		</div>
+		<div class="content">
+			<div class="content__left">
+				<div class="text-center">
 					<a class="btn btn-dark ovale" href="#"><b>OFFRES</b></a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">
 					<a class="btn btn-dark ovale" href="#"><b>TROTTINETTES</b></a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__middle">
+				<div class="text-center">
 					<a class="btn btn-dark ovale" href="#"><b>MATÉRIEL</b></a>
 				</div>
-				<div class="col">
+			</div>
+			<div class="content__right">
+				<div class="text-center">
 					<a class="btn btn-dark ovale" href="#"><b>ASSURANCE</b></a>
 				</div>
 			</div>
 		</div>
-	</nav>
+	</div>
 	
+	
+
 	<h1>A</h1><br>
 	<h1>B</h1><br>
 	<h1>C</h1><br>
@@ -77,10 +101,18 @@
 	<h1>P</h1><br>
 	
 	
-	<footer class="page-footer fixed-bottom">
-		<div class="div-btn">
-			<a class="btn btn-dark ms-left ovale btn-footer" href="#"><b>SOMMAIRE</b></a>
+	<footer class="page-footer fixed-bottom content">
+		<div class="content__left">
+			<a class="btn btn-dark ovale invisible" href="#"><b>SOMMAIRE</b></a>
 		</div>
+		<div class="content__middle">
+			<a class="btn btn-dark ovale invisible" href="#"><b>SOMMAIRE</b></a>
+			<a class="btn btn-dark ovale invisible" href="#"><b>SOMMAIRE</b></a>
+		</div>
+		<div class="content__right">
+			<a class="btn btn-dark ovale" href="#"><b>SOMMAIRE</b></a>
+		</div>
+		
 	</footer>
 		
 	</body>
