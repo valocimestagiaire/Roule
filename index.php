@@ -16,44 +16,44 @@
 		<div class="content">
 			<div class="content__left">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #E9D001;" href="#"><b>GAINS SALARIÉS</b><br>(Bien être / souplesse / ...)</a>
+					<a class="btn btn-primary jaune" href="#"><b>GAINS SALARIÉS</b><br>(Bien être / souplesse / ...)</a>
 				</div>
 			</div>
 			<div class="content__middle">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #0ACE00;" href="#"><b>ENVIRONNEMENT</b><br>(RSE / impacts / ...)</a>
+					<a class="btn btn-primary vert" href="#"><b>ENVIRONNEMENT</b><br>(RSE / impacts / ...)</a>
 				</div>
 			</div>
 			<div class="content__middle">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #8401D9;" href="#"><b>ADMINISTRATIF</b><br>(Process / contrats / ...)</a>
+					<a class="btn btn-primary violet" href="#"><b>ADMINISTRATIF</b><br>(Process / contrats / ...)</a>
 				</div>
 			</div>
 			<div class="content__right">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: pink;" href="#"><b>RESSOURCES HUMAINES</b><br>	</a>
+					<a class="btn btn-primary rose" href="#"><b>RESSOURCES HUMAINES</b><br>	</a>
 				</div>
 			</div>
 		</div>
 		<div class="content">
 			<div class="content__left">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #0188E9;" href="#"><b>GAINS ENTREPRISE</b><br>(Financier / image / ...)</a>
+					<a class="btn btn-primary bleu" href="#"><b>GAINS ENTREPRISE</b><br>(Financier / image / ...)</a>
 				</div>
 			</div>
 			<div class="content__middle">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #FF8500;" href="#"><b>CIVISME</b><br> </a>
+					<a class="btn btn-primary orange" href="#"><b>CIVISME</b><br> </a>
 				</div>
 			</div>
 			<div class="content__middle">
 				<div class="text-center">				
-					<a class="btn btn-primary" style="background-color: #954E00;" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
+					<a class="btn btn-primary marron" href="#"><b>JURIDIQUE</b><br>(Contrats / ...)</a>
 				</div>
 			</div>
 			<div class="content__right">
 				<div class="text-center">
-					<a class="btn btn-primary" style="background-color: #DC0000;" href="#"><b>SÉCURITÉ</b><br> </a>
+					<a class="btn btn-primary rouge" href="#"><b>SÉCURITÉ</b><br> </a>
 				</div>
 			</div>
 		</div>
